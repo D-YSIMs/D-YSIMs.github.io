@@ -1,0 +1,21 @@
+{
+  "name": "D-YSIMs Studios",
+  "short_name": "D-YSIMs",
+  "description": "Create anime & cartoon characters, build scenes, and generate AI-powered stories.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07080f",
+  "theme_color": "#7c3aed",
+  "orientation": "any",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "categories": ["entertainment", "creativity"],
+  "screenshots": [],
+  "shortcuts": [
+    { "name": "Character Creator", "url": "/story-studio.html", "description": "Create anime characters" },
+    { "name": "Animation Studio", "url": "/animation-studio.html", "description": "Generate animations" },
+    { "name": "Anime Battle", "url": "/anime-studio.html", "description": "Battle arena" }
+  ]
+}
